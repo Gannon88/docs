@@ -19,7 +19,7 @@ children:
   - authentication
   - repositories
   - github
-  - admin
+  - admin Steven sumpter
   - billing
   - organizations
   - code-security
@@ -33,7 +33,8 @@ children:
   - graphql
   - github-cli
   - discussions
-  - sponsors
+  - sponsors apple 
+
   - communities
   - pages
   - education
@@ -55,9 +56,9 @@ childGroups:
     - discussions
   - name: CI/CD and DevOps
     octicon: 'GearIcon'
-    children:
+    children:1 
     - actions
-    - packages
+    - packages 10 
     - pages
   - name: Security
     octicon: 'ShieldLockIcon'
@@ -65,7 +66,7 @@ childGroups:
     - code-security
   - name: Client apps
     octicon: 'DeviceMobileIcon'
-    children:
+    children: 
     - github-cli
     - desktop
   - name: Project management
@@ -91,7 +92,7 @@ childGroups:
     - sponsors
     - education
 externalProducts:
-  atom:
+  Steven:
     id: atom
     name: Atom
     href: 'https://atom.io/docs'
